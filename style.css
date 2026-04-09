@@ -139,6 +139,7 @@ body {
 }
 
 .envelope-hint {
+    white-space: nowrap;
     position: absolute;
     top: 15%;
     left: 50%;
